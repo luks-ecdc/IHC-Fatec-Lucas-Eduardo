@@ -37,8 +37,23 @@ Utilizando o CodePen (https://codepen.io/xlucasFatec/pen/ExYqNaM?editors=1000) i
   </body>
 </html>
 ```
+# Teste com Hiro e Kanji
 
->> O que falta fazer? <<
+Acrescentando o 
+``` <script src="'http://examples.org/kanji.patt'"></script>```
+
+e
+
+```<a-marker preset='kanji'>
+      <a-box position='0 0.5 0' material='color: red;'></a-box>
+    </a-marker> 
+```
+    
+ podemos utilizar 2 marcadores de projeção.
+
+![teste com 2](https://user-images.githubusercontent.com/37638307/66015023-619f1e00-e4a7-11e9-8381-faec157d4829.png)
+
+# O que falta fazer? <<
 * Incluir eventos de toque/ clique.
 * Incluir a interação do modelo 3D da furadeira com o modelo 3D do tripé.
 * Incluir um tutorial escrito e áudio. 

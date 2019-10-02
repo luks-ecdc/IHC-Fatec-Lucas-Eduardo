@@ -54,7 +54,36 @@ e
 
 ![teste com 2](https://user-images.githubusercontent.com/37638307/66015023-619f1e00-e4a7-11e9-8381-faec157d4829.png)
 
+# Implementando um modelo 3D da furadeira
+ Nessa parte foi utilizada um modelo pego no (https://sketchfab.com/)
+ o modelo gltf foi colocado em um repositório do Github (https://github.com/xluminatus/drill)
+ Utilizando o CodePen (https://codepen.io/xlucasFatec/pen/YzKomgX?editors=1000) 
+ inserimos a chamada do link do Raw do model.dae no marker Hiro
+ 
+ ``` <html>
+    <script src="https://aframe.io/releases/0.8.2/aframe.min.js"></script>
+    <script src="https://cdn.rawgit.com/jeromeetienne/AR.js/1.7.8/aframe/build/aframe-ar.js"></script>
+      <body style='margin : 0px; overflow: hidden;'>
+        <a-scene embedded arjs>
+            
+        <a-marker preset="hiro">
+            <a-entity collada-model="url(https://raw.githubusercontent.com/xluminatus/drill/master/model.dae)"
+                      rotation = "-90 0 0"
+                      scale = "3 3 3"></a-entity>
+        </a-marker>
+          
+         <a-entity camera></a-entity>
+        </a-scene>
+      </body>
+    </html>
+    
+```
+![drill](https://user-images.githubusercontent.com/37638307/66042538-1579cb00-e4f3-11e9-90ce-2bdcccb40d8a.png)
+
+
 # O que falta fazer? <<
+* incluir um modelo de furadeira sem tripé 
+* Incluir o modelo 3D de tripé 
 * Incluir eventos de toque/ clique.
 * Incluir a interação do modelo 3D da furadeira com o modelo 3D do tripé.
 * Incluir um tutorial escrito e áudio. 

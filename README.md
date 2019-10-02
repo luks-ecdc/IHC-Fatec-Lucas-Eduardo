@@ -2,7 +2,7 @@
 Este projeto consiste em mudar um pouco a questão monótoma de ensino nas empresas, tirando aquele modo 
 antigo de livretos e materiais impressos, se dá inicio à tecnologia de AR/VR (Realidade Aumentada/Realidade Virtual).
 
-Utilizando o CodePen ( https://codepen.io/xlucasFatec/pen/YzKomgX?editors=1000 ), vamos utilizar uma chamada da imagem hiro e kanji
+Utilizando o CodePen ( https://codepen.io/ ), vamos utilizar uma chamada da imagem hiro e kanji
 
 # HIRO
 ![HIRO](https://user-images.githubusercontent.com/37638307/66013913-619d1f00-e4a3-11e9-8acb-737d1dc064fb.jpg) 

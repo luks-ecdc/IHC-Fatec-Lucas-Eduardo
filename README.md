@@ -2,11 +2,17 @@
 Este projeto consiste em mudar um pouco a questão monótoma de ensino nas empresas, tirando aquele modo 
 antigo de livretos e materiais impressos, se dá inicio à tecnologia de AR/VR (Realidade Aumentada/Realidade Virtual).
 
-Utilizando o CodePen ( https://codepen.io/xlucasFatec/pen/YzKomgX?editors=1000 ), vamos utilizar uma chamada de objeto 
-HIRO
-(https://jeromeetienne.github.io/AR.js/data/images/HIRO.jpg) e 
+Utilizando o CodePen ( https://codepen.io/xlucasFatec/pen/YzKomgX?editors=1000 ), vamos utilizar uma chamada da imagem hiro e kanji
 
-Kanji (https://www.solutionfactory.in/resources/images/posts/5/kanji.png) da câmera do celular ou notebook para iniciar a projeção AR de uma furadeira e um tripé de furadeira.
+# HIRO
+![HIRO](https://user-images.githubusercontent.com/37638307/66013913-619d1f00-e4a3-11e9-8acb-737d1dc064fb.jpg) 
+
+ 
+
+# Kanji
+![kanji](https://user-images.githubusercontent.com/37638307/66013856-33b7da80-e4a3-11e9-909e-38a0b029908c.png)
+
+da câmera do celular ou notebook para iniciar a projeção AR de uma furadeira e um tripé de furadeira.
 
 # Iniciando o Projeto
 

@@ -14,6 +14,23 @@ Utilizando o CodePen (https://codepen.io/xlucasFatec/pen/ExYqNaM?editors=1000) i
 
 ![modelo3d teste](https://user-images.githubusercontent.com/37638307/66013316-23066500-e4a1-11e9-9977-761825313856.png)
 
+# Code3dbox HTML
+
+```
+<!doctype HTML>
+<html>
+<script src="https://aframe.io/releases/0.9.2/aframe.min.js"></script>
+<script src="https://raw.githack.com/jeromeetienne/AR.js/1.7.5/aframe/build/aframe-ar.js"></script>
+  <body style='margin : 0px; overflow: hidden;'>
+    <a-scene embedded arjs>
+  	<a-marker preset="hiro">
+            <a-box position='0 0.5 0' material='color: yellow;'></a-box>
+  	</a-marker>
+  	<a-entity camera></a-entity>
+    </a-scene>
+  </body>
+</html>
+```
 
 >> O que falta fazer? <<
 * Incluir eventos de toque/ clique.

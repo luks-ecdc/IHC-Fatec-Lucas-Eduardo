@@ -1,4 +1,19 @@
-# IHC-Fatec-Lucas-Eduardo
+# IHC-Fatec
+## Treinamento feito em Augmented Reality
+
+**Faculdade**: FATEC Jessen Vidal de São José dos Campos
+
+**Aluno**: Lucas Eduardo C. da Costa
+
+**Aluno**: Matheus Henrique
+
+
+
+**Professor**: Giuliano Araujo Bertoti
+
+**3º Semestre ADS/Turma A - Interação Humano Computador**
+
+**Descrição**:  
 Este projeto consiste em mudar um pouco a questão monótoma de ensino nas empresas, tirando aquele modo 
 antigo de livretos e materiais impressos, se dá inicio à tecnologia de AR/VR (Realidade Aumentada/Realidade Virtual).
 
@@ -81,5 +96,5 @@ e
 ![drill](https://user-images.githubusercontent.com/37638307/66042538-1579cb00-e4f3-11e9-90ce-2bdcccb40d8a.png)
 
 
-# O que falta fazer? <<
+
  

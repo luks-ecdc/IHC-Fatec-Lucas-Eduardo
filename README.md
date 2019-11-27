@@ -82,8 +82,4 @@ e
 
 
 # O que falta fazer? <<
-* incluir um modelo de furadeira sem tripé 
-* Incluir o modelo 3D de tripé 
-* Incluir eventos de toque/ clique.
-* Incluir a interação do modelo 3D da furadeira com o modelo 3D do tripé.
-* Incluir um tutorial escrito e áudio. 
+ 
